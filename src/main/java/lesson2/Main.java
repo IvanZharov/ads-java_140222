@@ -33,7 +33,7 @@ public class Main {
 //        Arrays.sort(arr); // 33
 //        Collections.sort(list); // 33
 //        QuickSort.sort(arr); //109 \ 92
-
+        HeapSort.sort(arr); //30
 
 
         SpeedTest.endTime();
